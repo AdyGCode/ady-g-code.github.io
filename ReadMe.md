@@ -24,3 +24,17 @@ Welcome to my repository.
 2. PhpStorm
 3. VSCode
 4. nano
+5. Arduino IDE
+
+## Smiley Time
+
+:-)     😊
+*<8o)8  🤹
+
+## Code Example
+
+```python
+name = input("Enter your name: ")
+```
+
+
